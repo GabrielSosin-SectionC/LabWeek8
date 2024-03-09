@@ -1,0 +1,61 @@
+*{
+    color: white;
+    background-color: black;
+    font-family: "Electrolize", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.title-container{
+    text-align: center;
+}
+
+h1, h2{
+    font-weight: bold;
+}
+
+h2{
+    margin-bottom: 3vh;
+}
+
+hr{
+    margin-left: 3%;
+    margin-right: 3%;
+}
+
+.dayDesc{
+    text-align: center;
+}
+
+#descriptionDay{
+    font-size: 20px;
+}
+
+.main-container{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    gap: 3%;
+}
+
+ul{
+    list-style-type: none;
+}
+
+.day1{
+    width: 33%;
+    border: 2px solid white;
+    border-radius: 5px;
+}
+
+.day2{
+    width: 33%;
+    border: 2px solid white;
+    border-radius: 5px;
+}
+
+.day3{
+    width: 33%;
+    border: 2px solid white;
+    border-radius: 5px;
+}
